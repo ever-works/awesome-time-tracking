@@ -17,7 +17,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [AI Powered Time Tracking (36)](#ai-powered-time-tracking)
 - [Time Tracking Software (252)](#time-tracking-software)
 - [Automatic Time Tracking (29)](#automatic-time-tracking)
-- [Productivity Tool (148)](#productivity-tool)
+- [Productivity Tool (149)](#productivity-tool)
 - [Time Management Principle (19)](#time-management-principle)
 - [Time Management Technique (117)](#time-management-technique)
 - [Time Management Thought Leader (35)](#time-management-thought-leader)
@@ -1242,6 +1242,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Productivity Tool
 
+- [Screenpipe](https://screenpipe.com/) - Search locally captured screen text and audio history to recall work, review meetings, and create work summaries. Provides local API and MCP context for AI assistants. ([Read more](/details/screenpipe.md)) `Work History` `Meeting Notes` `AI Context`
 - [Cold Turkey](https://getcoldturkey.com) - Powerful website and application blocker for Windows and Mac that helps eliminate distractions. Features strict blocking that cannot be easily bypassed, including nuclear option for extreme focus. ([Read more](/details/cold-turkey.md)) `Blocking` `Focus` `Distraction Free`
 - [Forest](https://www.forestapp.cc/) - Gamified focus and productivity app with 44 million downloads that helps users stay off their smartphones by growing virtual trees, with partnerships to plant real trees. ([Read more](/details/forest.md)) `Gamification` `Focus` `Mobile`
 - [Forest App Real Tree Planting](https://www.forestapp.cc/) - Unique productivity feature where Forest app users can spend virtual coins earned through focused work sessions to plant real trees on Earth through partnership with Trees for the Future, with over 1.5 million trees planted. ([Read more](/details/forest-app-real-tree-planting.md)) `Gamification` `Environmental` `Motivation` `Social Impact`
