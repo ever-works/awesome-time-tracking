@@ -100,7 +100,7 @@ Time tracking APIs enable programmatic access to time entry data, allowing busin
 **Examples**: Toggl Track, Harvest (modern), TMetric
 
 ### Bearer Token
-**Usage**: `Authorization: Bearer YOUR_TOKEN`
+**Usage**: `Authorization: [redacted secret]`
 - Often combined with OAuth
 - Stateless authentication
 - JWT tokens sometimes used
