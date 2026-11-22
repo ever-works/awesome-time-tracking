@@ -7,7 +7,7 @@ A curated list of time tracking applications, libraries, and tools.
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **3,279 items in 141 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [timetrack.ever.works](https://timetrack.ever.works).
+> **3,280 items in 141 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [timetrack.ever.works](https://timetrack.ever.works).
 
 ## 📑 Categories
 
@@ -16,10 +16,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Philosophy](categories/time-management-philosophy.md) (88)
 - [Practices](categories/practices.md) (299)
 - [AI Powered Time Tracking](categories/ai-powered-time-tracking.md) (44)
-- [Time Tracking Software](categories/time-tracking-software.md) (253)
+- [Time Tracking Software](categories/time-tracking-software.md) (254)
 - [Attendance & Payroll Management](categories/attendance-payroll-management.md) (60)
 - [Automatic Time Tracking](categories/automatic-time-tracking.md) (29)
-- [Productivity Tool](categories/productivity-tool.md) (148)
+- [Productivity Tool](categories/productivity-tool.md) (149)
 - [Time Management Principle](categories/time-management-principle.md) (19)
 - [Time Management Technique](categories/time-management-technique.md) (117)
 - [Time Management Thought Leader](categories/time-management-thought-leader.md) (35)
