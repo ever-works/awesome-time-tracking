@@ -7,7 +7,7 @@ A curated list of time tracking applications, libraries, and tools.
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **3,280 items in 141 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [timetrack.ever.works](https://timetrack.ever.works).
+> **3,281 items in 142 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [timetrack.ever.works](https://timetrack.ever.works).
 
 ## 📑 Categories
 
@@ -16,7 +16,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Philosophy](categories/time-management-philosophy.md) (88)
 - [Practices](categories/practices.md) (299)
 - [AI Powered Time Tracking](categories/ai-powered-time-tracking.md) (44)
-- [Time Tracking Software](categories/time-tracking-software.md) (254)
+- [Time Tracking Software](categories/time-tracking-software.md) (255)
 - [Attendance & Payroll Management](categories/attendance-payroll-management.md) (60)
 - [Automatic Time Tracking](categories/automatic-time-tracking.md) (29)
 - [Productivity Tool](categories/productivity-tool.md) (149)
@@ -30,11 +30,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Professional Services](categories/professional-services.md) (50)
 - [team-project-time-tracking](categories/team-project-time-tracking.md) (62)
 - [Time Management Research](categories/time-management-research.md) (43)
-- [Time Tracking Analytics](categories/time-tracking-analytics.md) (11)
+- [Time Tracking Analytics](categories/time-tracking-analytics.md) (12)
 - [Time Tracking Hardware](categories/time-tracking-hardware.md) (11)
 - [Time Tracking Research](categories/time-tracking-research.md) (43)
-- [Desktop Time Tracking Applications](categories/desktop-time-tracking-applications.md) (22)
-- [Developer Time Tracking](categories/developer-time-tracking.md) (14)
+- [Desktop Time Tracking Applications](categories/desktop-time-tracking-applications.md) (23)
+- [Developer Time Tracking](categories/developer-time-tracking.md) (15)
 - [Mobile Time Tracking](categories/mobile-time-tracking.md) (35)
 - [Productivity Software](categories/productivity-software.md) (14)
 - [Productivity Technique](categories/productivity-technique.md) (14)
@@ -63,7 +63,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Construction Time Tracking](categories/construction-time-tracking.md) (23)
 - [Countdown & Interval Timers](categories/countdown-interval-timers.md) (35)
 - [Creative Agencies](categories/creative-agencies.md) (1)
-- [Cross Platform Time Tracking](categories/cross-platform-time-tracking.md) (5)
+- [Cross Platform Time Tracking](categories/cross-platform-time-tracking.md) (6)
 - [Developer Tools](categories/developer-tools.md) (4)
 - [Digital Wellness](categories/digital-wellness.md) (10)
 - [Employee Monitoring](categories/employee-monitoring.md) (44)
@@ -115,7 +115,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Productivity Trend](categories/productivity-trend.md) (3)
 - [Project Management](categories/project-management.md) (64)
 - [Project Management Practice](categories/project-management-practice.md) (3)
-- [Project Time Tracking](categories/project-time-tracking.md) (3)
+- [Project Time Tracking](categories/project-time-tracking.md) (4)
 - [Remote Work Health](categories/remote-work-health.md) (1)
 - [Remote Work Practice](categories/remote-work-practice.md) (3)
 - [Resource Management](categories/resource-management.md) (5)
@@ -132,16 +132,17 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Researcher](categories/time-management-researcher.md) (1)
 - [Time Management Statistic](categories/time-management-statistic.md) (2)
 - [Time Tracking APIs & Integrations](categories/time-tracking-apis-integrations.md) (33)
-- [Time Tracking Comparison](categories/time-tracking-comparison.md) (1)
+- [Time Tracking Comparison](categories/time-tracking-comparison.md) (2)
 - [Time Tracking Compliance](categories/time-tracking-compliance.md) (28)
-- [Time Tracking Concept](categories/time-tracking-concept.md) (2)
+- [Time Tracking Concept](categories/time-tracking-concept.md) (3)
 - [Time Tracking Criticism](categories/time-tracking-criticism.md) (1)
 - [Time Tracking Features](categories/time-tracking-features.md) (2)
 - [Time Tracking Integration](categories/time-tracking-integration.md) (2)
 - [Time Tracking Practice](categories/time-tracking-practice.md) (121)
 - [Time Tracking Principle](categories/time-tracking-principle.md) (3)
 - [Time Tracking Process](categories/time-tracking-process.md) (3)
-- [Time Tracking Tool](categories/time-tracking-tool.md) (1)
+- [Time Tracking Tool](categories/time-tracking-tool.md) (2)
+- [Time Tracking Tools](categories/time-tracking-tools.md) (1)
 - [Time Tracking Utilities & Calculators](categories/time-tracking-utilities-calculators.md) (61)
 - [time-tracking-cli-tools](categories/time-tracking-cli-tools.md) (62)
 - [Virtual Coworking Feature](categories/virtual-coworking-feature.md) (2)
