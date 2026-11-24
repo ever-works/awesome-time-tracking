@@ -7,7 +7,7 @@ A curated list of time tracking applications, libraries, and tools.
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **3,281 items in 142 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [timetrack.ever.works](https://timetrack.ever.works).
+> **3,282 items in 142 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [timetrack.ever.works](https://timetrack.ever.works).
 
 ## 📑 Categories
 
@@ -16,7 +16,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Time Management Philosophy](categories/time-management-philosophy.md) (88)
 - [Practices](categories/practices.md) (299)
 - [AI Powered Time Tracking](categories/ai-powered-time-tracking.md) (44)
-- [Time Tracking Software](categories/time-tracking-software.md) (255)
+- [Time Tracking Software](categories/time-tracking-software.md) (256)
 - [Attendance & Payroll Management](categories/attendance-payroll-management.md) (60)
 - [Automatic Time Tracking](categories/automatic-time-tracking.md) (29)
 - [Productivity Tool](categories/productivity-tool.md) (149)
